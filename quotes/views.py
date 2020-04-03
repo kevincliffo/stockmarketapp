@@ -1,3 +1,4 @@
+#Copyright (c) Kevin Ochieng all rights deserved
 from django.shortcuts import render, redirect
 from .models import Stock
 from .forms import StockForm
